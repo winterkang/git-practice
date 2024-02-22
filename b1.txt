@@ -1,1 +1,1 @@
-create b1
+hello b1
